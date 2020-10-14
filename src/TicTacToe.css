@@ -51,8 +51,8 @@ body{
   cursor: pointer;
 }
 
-.cell:not(.O):not(.X):hover, :not(.game-over .cell){
-  box-shadow: 0 25px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -10px rgba(0, 0, 0, 0.4);
+.cell:not(.O):not(.X):hover{
+  box-shadow: 0 25px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.4);
 }
 
 .cell.O, .cell.X{
