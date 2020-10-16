@@ -1,3 +1,5 @@
+## You can play the game just clicking on the link: https://gotictactoe.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
