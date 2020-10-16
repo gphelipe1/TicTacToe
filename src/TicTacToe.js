@@ -80,7 +80,7 @@ function TicTacToe() {
       
       {winner &&
       <footer>
-        {winner == "E" ? 
+        {winner === "E" ? 
           <h2 className = "winner-message">
           <span className = {winner}>Empatou</span>
         </h2>
